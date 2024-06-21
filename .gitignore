@@ -13,3 +13,6 @@ logs/*
 
 # build
 /dist/*
+
+# Environment
+.env
