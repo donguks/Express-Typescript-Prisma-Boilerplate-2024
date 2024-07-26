@@ -16,3 +16,6 @@ logs/*
 
 # Environment
 .env
+
+# Lock files
+pnpm-lock.yaml
